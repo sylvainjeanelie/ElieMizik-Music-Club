@@ -12,12 +12,12 @@ html {
 
 h1{
   font-size: 3rem;
-  color: aliceblue;
+  color: rgb(224, 233, 240);
 }
 
-.buffer {
-  height: 5rem;
-}
+/* .buffer {
+  height: 1rem;
+} */
 
 .btn {
   font-size: 3rem;
